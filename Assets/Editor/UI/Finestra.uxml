@@ -1,0 +1,13 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <ui:VisualElement style="flex-direction: column; flex-wrap: nowrap; border-left-width: 10px; border-right-width: 10px; border-top-width: 10px; border-bottom-width: 10px; border-left-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-bottom-color: rgb(0, 0, 0); flex-grow: 1;">
+        <ui:Toggle label="Checkbox" class="grassetto" />
+        <ui:Label text="Secondo testo" display-tooltip-when-elided="true" class="grassetto" />
+        <ui:Label text="Testo di prova" display-tooltip-when-elided="true" name="testo-di-prova" />
+        <ui:Label text="Testo aggiunto in VS Code" class="grassetto" />
+        <ui:Button text="Button" display-tooltip-when-elided="true" class="grassetto" />
+    </ui:VisualElement>
+    <ui:VisualElement style="flex-direction: column; flex-wrap: nowrap; border-left-width: 10px; border-right-width: 10px; border-top-width: 10px; border-bottom-width: 10px; border-left-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-bottom-color: rgb(0, 0, 0); flex-grow: 1;">
+        <ui:Toggle label="Checkbox" class="grassetto" />
+        <ui:Label text="Secondo testo" display-tooltip-when-elided="true" class="grassetto" />
+    </ui:VisualElement>
+</ui:UXML>
